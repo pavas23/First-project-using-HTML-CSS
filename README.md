@@ -13,3 +13,7 @@ displays E-Cell sign up / login page.There are two html files (ecell and ecell2)
 ## 🛠 Skills
 HTML5 and CSS3 (animations,flexbox,CSS grids,Transitions,Transform etc.)
 
+
+## Installation
+Download zip file from github and one can directly run html file from project folder which will be downloaded on your computer.
+    
