@@ -7,9 +7,8 @@ displays E-Cell sign up / login page.There are two html files (ecell and ecell2)
 
 ## Acknowledgements
 1. https://www.w3schools.com/
-2. https://codewithharry.com/
- 
 
+ 
 ## 🛠 Skills
 HTML5 and CSS3 (animations,flexbox,CSS grids,Transitions,Transform etc.)
 
