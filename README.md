@@ -3,7 +3,7 @@
 BPHC E-Cell Website 
 
 In this project i have made a Website using HTML5 and CSS3 which
-displays E-Cell sign up / login page.
+displays E-Cell sign up / login page.There are two html one for sign up page and other one for login page and similarly two css style sheets one for each page.I have also uploaded some images for animation effect on homepage and ecell logo.
 
 ## Acknowledgements
 1. https://www.w3schools.com/
